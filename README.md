@@ -1,4 +1,4 @@
-Object-Oriented Design
+Object-Oriented Design 
 ==================
 
 This repository contains problem set assignments from CSCI3353 - Object-Oriented Design (Fall 2015).
